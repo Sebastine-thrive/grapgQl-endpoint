@@ -1,6 +1,6 @@
 # GraphQL endpoint for Junior Developer position in Scandiweb
 
-### Overviewuyar
+### Overview
 
 
 You are going to need this endpoint in order to implement the assignment given to you (minimalistic storefront).
