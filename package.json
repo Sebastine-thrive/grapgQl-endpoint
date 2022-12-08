@@ -2,6 +2,7 @@
   "name": "junior-test-endpoint",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "src/main.ts",
   "scripts": {
     "build": "tsc",
@@ -21,4 +22,3 @@
     "nodemon": "^2.0.7"
   }
 }
- 
